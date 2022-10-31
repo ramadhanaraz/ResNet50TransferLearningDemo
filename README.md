@@ -1,4 +1,4 @@
-# **ResNet50 Transfer Learning Demonstration**
+# **ResNet50 Transfer Learning Demonstration Extra Spicy**
 
 ## **About**
 
